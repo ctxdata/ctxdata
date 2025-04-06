@@ -5,7 +5,7 @@ Database technologies
 MySQL, Redis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-weijie.he@outlook.com
+wearjeanhe@gmail
 
 <!---
 ctxdata/ctxdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
